@@ -1,0 +1,15 @@
+Project title:
+DBSCAN-Based Anomaly Detection with NetworkX Graph Analysis
+
+Short description:
+A Python project demonstrating density-based clustering for transaction
+anomaly detection and NetworkX-based relationship analysis. DBSCAN identifies
+observations that do not belong to dense behavioral groups, while NetworkX
+represents customer-transaction-merchant relationships surrounding the
+flagged observations.
+
+Suggested assignment description:
+GitHub Repository: [PASTE YOUR GITHUB REPOSITORY LINK]
+The repository contains the synthetic dataset, Python implementation,
+DBSCAN anomaly detection results, NetworkX graph analysis, visualizations,
+requirements file, and README documentation.

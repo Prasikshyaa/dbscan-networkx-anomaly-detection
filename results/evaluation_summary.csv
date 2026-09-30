@@ -1,0 +1,5 @@
+metric,value
+Total records,300
+Synthetic anomaly records,20
+DBSCAN records labeled as noise,20
+Known anomalies detected,20
